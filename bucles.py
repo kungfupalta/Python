@@ -59,3 +59,5 @@ while True:
 
 print(f"Positivos: {positivos}")
 print(f"Negativos: {negativos}")
+
+#Ejercicio 13 
